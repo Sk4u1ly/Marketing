@@ -1,0 +1,13 @@
+package flight_com.marketing.first.webapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SearchMarketingAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
